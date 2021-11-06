@@ -1,0 +1,14 @@
+button {
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    border: 0;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(1.2);
+}
